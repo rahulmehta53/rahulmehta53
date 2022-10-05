@@ -1,5 +1,5 @@
-### Hi there, here is what I'm working on!!👋
-
+<h1 align="center">Hi 👋, I'm Rahul Mehta</h1>
+<h3 align="center">A passionate Mobile App Developer.</h3>
 
 Here are some ideas to get you started:
 
@@ -8,6 +8,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Interactive edtech projects
 - 🤔 I’m looking for help with ... Android, Kotlin
 - 💬 Ask me about ... Anything
+- ⚡ Hobbies ... :muscle: :running: :bicyclist: 
 - 📫 How to reach me: ... [LinkedIn Page](https://www.linkedin.com/in/rahul-mehta-96770a16b/)
-- ⚡ Hobbies ... :muscle: Workout, :running: Running, :bicyclist: Cycling
 
+
+### 🛠 &nbsp;Languages , framework and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
