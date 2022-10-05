@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Mehta</h1>
 <h3 align="center">A passionate Mobile App Developer.</h3>
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ... Building Basic Android apps
 - 🌱 I’m currently learning ... Jetpack Compose
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies ... :muscle: :running: :bicyclist: 
 - 📫 How to reach me: ... [LinkedIn Page](https://www.linkedin.com/in/rahul-mehta-96770a16b/)
 
+---
 
 ### 🛠 &nbsp;Languages , framework and Tools :
 
@@ -25,3 +27,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulmehta53&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmehta53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
