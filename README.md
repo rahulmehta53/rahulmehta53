@@ -37,7 +37,11 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahulmehta53&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://streakstats53.herokuapp.com?user=rahulmehta53&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+
+[![GitHub Streak](https://streakstats53.herokuapp.com?user=rahulmehta53&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmehta53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
